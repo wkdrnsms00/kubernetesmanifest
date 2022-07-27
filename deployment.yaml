@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: wkdrnsms/flask-jenkins:3
+      - image: wkdrnsms00/flask-jenkins:3
         name: flaskdemo
         resources: {}
 status: {}
