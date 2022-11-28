@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: wkdrnsms00/mz-jenkins:$DOCKERTAG
+      - image: wkdrnsms00/mz-jenkins:15
         name: flaskdemo
         resources: {}
           
